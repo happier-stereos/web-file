@@ -7,3 +7,4 @@ Data Pipeline Version Control OAuth Don't be afraid to give up the good to go fo
 Success usually comes to those who are too busy to be looking for it. Code Review Microservices Framework Deployment RabbitMQ Multi-threading
 Virtual Machines Kubernetes Multi-threading Cache Invalidation Replica Set Work hard in silence, let your success be your noise. Big Data Logging WebSockets API
 Cloud Functions Event-driven Architecture Predictive Analytics React Neural Networks Load Testing JWT API Gateway Do what you love and the money will follow. DNS Routing Scalability The only way to do great work is to love what you do. DevOps UX Optimization Latency Optimization
+WebSockets Dream big and dare to fail. DNS Routing Security JWT UX Optimization OAuth

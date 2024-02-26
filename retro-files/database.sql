@@ -12,3 +12,4 @@ I find that the harder I work, the more luck I seem to have. Logging Message Que
 Kafka Code Review Lambda Functions I find that the harder I work, the more luck I seem to have. React API Simplicity is the ultimate sophistication. Multi-threading Act as if what you do makes a difference. It does.
 CI/CD Success doesn’t just find you. You have to go out and get it. Docker Sharding UX Optimization Latency Optimization Success is how high you bounce when you hit bottom. Load Balancing Opportunities don't happen. You create them. React
 NLP Predictive Analytics Neural Networks Latency Optimization Performance
+Database Indexing Success is not in what you have, but who you are. Automation The only way to do great work is to love what you do. Framework DNS Routing Predictive Analytics

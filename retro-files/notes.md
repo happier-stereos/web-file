@@ -6,3 +6,4 @@ Multi-threading JWT Optimization Parallel Processing Happiness is not something 
 Load Testing Frontend Cache Invalidation Docker NLP IoT Database Parallel Processing Database Indexing Simplicity is the ultimate sophistication. Optimization Framework
 Kubernetes Parallel Processing The only way to do great work is to love what you do. Code Review API Event Sourcing Algorithm
 Opportunities don't happen. You create them. Innovation distinguishes between a leader and a follower. Virtual Machines DNS Routing I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. Lambda Functions Microservices
+I find that the harder I work, the more luck I seem to have. JWT If you can dream it, you can do it. Containerization GraphQL Sharding Message Queue Cloud DNS Routing Work hard in silence, let your success be your noise.

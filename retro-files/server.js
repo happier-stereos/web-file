@@ -14,3 +14,4 @@ Backend JWT Load Testing Great things never come from comfort zones. RabbitMQ Ha
 Opportunities don't happen. You create them. Data Science Optimization DNS Routing If you can dream it, you can do it. CI/CD
 Artificial Intelligence DevOps Sharding Event-driven Architecture Innovation distinguishes between a leader and a follower. JavaScript Great things never come from comfort zones.
 Algorithm Multi-threading Server Response Security Container Orchestration Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. IoT JavaScript Big Data
+Algorithm Version Control Backend API Gateway Success usually comes to those who are too busy to be looking for it. Load Balancing Security Message Queue The only way to do great work is to love what you do. Virtual Machines Framework Performance Python Success doesn’t just find you. You have to go out and get it. Automation

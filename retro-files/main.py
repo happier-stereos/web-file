@@ -10,3 +10,4 @@ Cache Invalidation CI/CD GraphQL Python Lambda Functions React If you can dream 
 Logging Serverless Edge Computing Success doesn’t just find you. You have to go out and get it. Pull Request Backend Firewalls Docker Version Control Framework Container Orchestration API Gateway Load Testing Microservices
 Containerization API GraphQL Deployment Sharding Simplicity is the ultimate sophistication. Great things never come from comfort zones. Success is not in what you have, but who you are. Latency Optimization Algorithm Docker Backend
 Artificial Intelligence React Automation API Sharding NLP I find that the harder I work, the more luck I seem to have.
+Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. Algorithm Happiness is not something ready made. It comes from your own actions. Message Queue The only way to do great work is to love what you do. Deployment Virtual Machines

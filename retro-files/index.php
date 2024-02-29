@@ -5,3 +5,4 @@ Agile Code Review Edge Computing Kafka Event Sourcing Optimization Database Inde
 Artificial Intelligence Security Big Data API Testing
 Automation Version Control NLP RabbitMQ Deployment Backend Stay hungry, stay foolish. Multi-threading Kubernetes Load Testing Great things never come from comfort zones. Machine Learning Act as if what you do makes a difference. It does. Difficult roads often lead to beautiful destinations.
 RabbitMQ Version Control Frontend Performance Server Response Algorithm Load Balancing Message Queue Cache Invalidation Container Orchestration Pull Request Simplicity is the ultimate sophistication.
+Event-driven Architecture Opportunities don't happen. You create them. Docker Work hard in silence, let your success be your noise. Kubernetes Testing Cache Invalidation RabbitMQ Pull Request API Gateway Load Balancing Code Review I find that the harder I work, the more luck I seem to have.

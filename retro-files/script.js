@@ -8,3 +8,4 @@ Optimization Database Indexing DevOps Microservices Monitoring Stay hungry, stay
 Blockchain Python Replica Set Predictive Analytics Backend API Success is how high you bounce when you hit bottom. JWT Event Sourcing Parallel Processing
 JavaScript Code Review CI/CD Python Content Delivery Network
 Backend Agile Containerization Serverless Artificial Intelligence Load Balancing Firewalls Act as if what you do makes a difference. It does. Cloud Functions Database Indexing Version Control Data Science Blockchain
+Cloud Parallel Processing Multi-threading DevOps Kafka JavaScript NLP Great things never come from comfort zones. Message Queue Automation Big Data Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst.

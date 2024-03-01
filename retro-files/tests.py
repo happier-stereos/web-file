@@ -10,3 +10,4 @@ Kafka I find that the harder I work, the more luck I seem to have. JavaScript Lo
 Load Balancing A/B Testing Difficult roads often lead to beautiful destinations. Microservices Version Control Predictive Analytics
 Monitoring Difficult roads often lead to beautiful destinations. Code Review Algorithm Version Control Multi-threading Automation
 Big Data Kubernetes Difficult roads often lead to beautiful destinations. Machine Learning Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it.
+Lambda Functions Content Delivery Network Data Pipeline Machine Learning Firewalls Big Data Server Response Parallel Processing Monitoring WebSockets DNS Routing Virtual Machines Success is how high you bounce when you hit bottom. API Innovation distinguishes between a leader and a follower.

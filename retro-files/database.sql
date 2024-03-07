@@ -11,3 +11,4 @@ Do what you love and the money will follow. Opportunities don't happen. You crea
 I find that the harder I work, the more luck I seem to have. Logging Message Queue Zero Downtime Deployment Great things never come from comfort zones. Virtual Machines Dream big and dare to fail. Neural Networks NLP Scalability React
 Kafka Code Review Lambda Functions I find that the harder I work, the more luck I seem to have. React API Simplicity is the ultimate sophistication. Multi-threading Act as if what you do makes a difference. It does.
 CI/CD Success doesn’t just find you. You have to go out and get it. Docker Sharding UX Optimization Latency Optimization Success is how high you bounce when you hit bottom. Load Balancing Opportunities don't happen. You create them. React
+NLP Predictive Analytics Neural Networks Latency Optimization Performance

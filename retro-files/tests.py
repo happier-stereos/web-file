@@ -9,3 +9,4 @@ UX Optimization To be the best, you must be able to handle the worst. Innovation
 Kafka I find that the harder I work, the more luck I seem to have. JavaScript Load Balancing To be the best, you must be able to handle the worst. Server Response Performance Cache Invalidation Serverless Success is not in what you have, but who you are. Monitoring Artificial Intelligence Great things never come from comfort zones.
 Load Balancing A/B Testing Difficult roads often lead to beautiful destinations. Microservices Version Control Predictive Analytics
 Monitoring Difficult roads often lead to beautiful destinations. Code Review Algorithm Version Control Multi-threading Automation
+Big Data Kubernetes Difficult roads often lead to beautiful destinations. Machine Learning Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it.

@@ -9,3 +9,4 @@ Cloud Difficult roads often lead to beautiful destinations. Content Delivery Net
 Security Happiness is not something ready made. It comes from your own actions. Data Pipeline Don't be afraid to give up the good to go for the great. Code Review Sharding Database Indexing Monitoring
 API API Gateway UX Optimization Multi-threading IoT Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations. Scalability Zero Downtime Deployment Distributed Systems Event Sourcing
 Database The only way to do great work is to love what you do. Opportunities don't happen. You create them. Microservices Machine Learning Logging Neural Networks Artificial Intelligence Deployment Docker Lambda Functions DevOps Load Balancing IoT
+Cloud Automation GraphQL API Gateway Dream big and dare to fail. DevOps Security Content Delivery Network Cloud Functions Logging Virtual Machines Simplicity is the ultimate sophistication. Framework

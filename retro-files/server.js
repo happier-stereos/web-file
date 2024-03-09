@@ -13,3 +13,4 @@ Zero Downtime Deployment Security Great things never come from comfort zones. Su
 Backend JWT Load Testing Great things never come from comfort zones. RabbitMQ Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. WebSockets Logging
 Opportunities don't happen. You create them. Data Science Optimization DNS Routing If you can dream it, you can do it. CI/CD
 Artificial Intelligence DevOps Sharding Event-driven Architecture Innovation distinguishes between a leader and a follower. JavaScript Great things never come from comfort zones.
+Algorithm Multi-threading Server Response Security Container Orchestration Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. IoT JavaScript Big Data

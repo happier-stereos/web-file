@@ -12,3 +12,4 @@ Sharding Event-driven Architecture Machine Learning Frontend Containerization La
 DevOps Data Science Kubernetes Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. RabbitMQ Monitoring Happiness is not something ready made. It comes from your own actions. Python Database Lambda Functions A/B Testing Backend
 Lambda Functions Server Response Simplicity is the ultimate sophistication. CI/CD RabbitMQ Great things never come from comfort zones.
 Load Testing Edge Computing Work hard in silence, let your success be your noise. Load Balancing Great things never come from comfort zones. API Python Cloud Functions
+API Gateway Docker Sharding Event-driven Architecture GraphQL Work hard in silence, let your success be your noise. Testing

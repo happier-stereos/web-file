@@ -5,3 +5,4 @@ Cloud Server Response DNS Routing Artificial Intelligence Replica Set Event Sour
 Stay hungry, stay foolish. Automation Data Pipeline Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations. Microservices Cloud Functions Lambda Functions UX Optimization Message Queue
 Scalability Automation Version Control Database Indexing Content Delivery Network Blockchain
 Backend Data Science Performance Database Indexing Virtual Machines Frontend Containerization DevOps Monitoring Code Review Happiness is not something ready made. It comes from your own actions. Scalability Dream big and dare to fail.
+JavaScript Container Orchestration Machine Learning Pull Request OAuth Scalability Load Balancing Artificial Intelligence IoT

@@ -8,3 +8,4 @@ Don't be afraid to give up the good to go for the great. Agile Microservices Big
 Blockchain JavaScript Database Indexing CI/CD Version Control Framework A/B Testing Multi-threading Data Science Success is not in what you have, but who you are. Agile UX Optimization
 Replica Set NLP Lambda Functions Do what you love and the money will follow. Serverless Virtual Machines Version Control WebSockets OAuth Dream big and dare to fail. Agile DevOps
 Deployment RabbitMQ WebSockets JWT Algorithm Cache Invalidation Virtual Machines Happiness is not something ready made. It comes from your own actions. Load Testing Lambda Functions Success usually comes to those who are too busy to be looking for it.
+Frontend Act as if what you do makes a difference. It does. RabbitMQ Blockchain Framework WebSockets Firewalls Database Indexing Kubernetes Latency Optimization Zero Downtime Deployment Success is how high you bounce when you hit bottom. Python Artificial Intelligence

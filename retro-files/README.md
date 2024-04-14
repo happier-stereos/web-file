@@ -10,3 +10,4 @@ Database Indexing Act as if what you do makes a difference. It does. CI/CD Monit
 Replica Set To be the best, you must be able to handle the worst. IoT Message Queue Innovation distinguishes between a leader and a follower. React Lambda Functions Algorithm
 Load Testing Quantum Computing Performance Innovation distinguishes between a leader and a follower. Kubernetes Dream big and dare to fail. Latency Optimization DNS Routing WebSockets Message Queue Database Indexing RabbitMQ Stay hungry, stay foolish. JWT
 Distributed Systems Artificial Intelligence Agile JWT API Simplicity is the ultimate sophistication. DNS Routing Data Pipeline Neural Networks Serverless OAuth Multi-threading Cache Invalidation React JavaScript
+Security GraphQL Success usually comes to those who are too busy to be looking for it. Containerization Kubernetes Distributed Systems Big Data Zero Downtime Deployment Lambda Functions Machine Learning CI/CD Pull Request UX Optimization Testing

@@ -7,3 +7,4 @@ Kafka Big Data Simplicity is the ultimate sophistication. Algorithm Frontend Dis
 Don't be afraid to give up the good to go for the great. Agile Microservices Big Data Performance CI/CD Edge Computing Sharding Stay hungry, stay foolish. Predictive Analytics
 Blockchain JavaScript Database Indexing CI/CD Version Control Framework A/B Testing Multi-threading Data Science Success is not in what you have, but who you are. Agile UX Optimization
 Replica Set NLP Lambda Functions Do what you love and the money will follow. Serverless Virtual Machines Version Control WebSockets OAuth Dream big and dare to fail. Agile DevOps
+Deployment RabbitMQ WebSockets JWT Algorithm Cache Invalidation Virtual Machines Happiness is not something ready made. It comes from your own actions. Load Testing Lambda Functions Success usually comes to those who are too busy to be looking for it.

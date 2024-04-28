@@ -7,3 +7,4 @@ NLP API Event Sourcing JWT Parallel Processing I find that the harder I work, th
 Optimization Database Indexing DevOps Microservices Monitoring Stay hungry, stay foolish. Sharding Machine Learning JavaScript
 Blockchain Python Replica Set Predictive Analytics Backend API Success is how high you bounce when you hit bottom. JWT Event Sourcing Parallel Processing
 JavaScript Code Review CI/CD Python Content Delivery Network
+Backend Agile Containerization Serverless Artificial Intelligence Load Balancing Firewalls Act as if what you do makes a difference. It does. Cloud Functions Database Indexing Version Control Data Science Blockchain

@@ -7,3 +7,4 @@ Code Review Event Sourcing Version Control Optimization Simplicity is the ultima
 API UX Optimization If you can dream it, you can do it. API Gateway Difficult roads often lead to beautiful destinations.
 UX Optimization OAuth Predictive Analytics Testing Latency Optimization Logging Firewalls To be the best, you must be able to handle the worst. Big Data Performance Blockchain Success is not in what you have, but who you are. Virtual Machines
 Kubernetes Artificial Intelligence Work hard in silence, let your success be your noise. Backend Success doesn’t just find you. You have to go out and get it. Testing Cloud Multi-threading Cache Invalidation Agile Great things never come from comfort zones.
+Replica Set Big Data Backend Container Orchestration Firewalls Content Delivery Network Zero Downtime Deployment IoT Difficult roads often lead to beautiful destinations. DNS Routing Pull Request Containerization Success is not in what you have, but who you are. Framework

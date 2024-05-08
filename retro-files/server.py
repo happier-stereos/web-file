@@ -10,3 +10,4 @@ Load Testing Frontend Cloud Functions API Gateway Difficult roads often lead to 
 DevOps Sharding Algorithm Multi-threading Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. Server Response
 Sharding Event-driven Architecture Machine Learning Frontend Containerization Lambda Functions JavaScript Algorithm Event Sourcing Version Control Server Response Scalability Latency Optimization API Gateway Agile
 DevOps Data Science Kubernetes Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. RabbitMQ Monitoring Happiness is not something ready made. It comes from your own actions. Python Database Lambda Functions A/B Testing Backend
+Lambda Functions Server Response Simplicity is the ultimate sophistication. CI/CD RabbitMQ Great things never come from comfort zones.

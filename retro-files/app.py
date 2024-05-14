@@ -7,3 +7,4 @@ Distributed Systems Cloud Edge Computing Success usually comes to those who are 
 Event-driven Architecture Edge Computing Pull Request Database JavaScript Security NLP Algorithm Container Orchestration OAuth Optimization Agile Content Delivery Network Automation Work hard in silence, let your success be your noise.
 Cloud Difficult roads often lead to beautiful destinations. Content Delivery Network Load Balancing Security
 Security Happiness is not something ready made. It comes from your own actions. Data Pipeline Don't be afraid to give up the good to go for the great. Code Review Sharding Database Indexing Monitoring
+API API Gateway UX Optimization Multi-threading IoT Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations. Scalability Zero Downtime Deployment Distributed Systems Event Sourcing

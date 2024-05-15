@@ -6,3 +6,4 @@ Stay hungry, stay foolish. IoT Machine Learning Multi-threading API Gateway Serv
 Kafka Big Data Simplicity is the ultimate sophistication. Algorithm Frontend Distributed Systems Server Response Innovation distinguishes between a leader and a follower. Database Pull Request Monitoring Success usually comes to those who are too busy to be looking for it.
 Don't be afraid to give up the good to go for the great. Agile Microservices Big Data Performance CI/CD Edge Computing Sharding Stay hungry, stay foolish. Predictive Analytics
 Blockchain JavaScript Database Indexing CI/CD Version Control Framework A/B Testing Multi-threading Data Science Success is not in what you have, but who you are. Agile UX Optimization
+Replica Set NLP Lambda Functions Do what you love and the money will follow. Serverless Virtual Machines Version Control WebSockets OAuth Dream big and dare to fail. Agile DevOps

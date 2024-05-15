@@ -10,3 +10,4 @@ Replica Set Don't be afraid to give up the good to go for the great. I find that
 Opportunities don't happen. You create them. JWT Difficult roads often lead to beautiful destinations. Python React Simplicity is the ultimate sophistication.
 Serverless WebSockets Algorithm Neural Networks Work hard in silence, let your success be your noise. Scalability
 Zero Downtime Deployment Security Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Edge Computing Artificial Intelligence
+Backend JWT Load Testing Great things never come from comfort zones. RabbitMQ Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. WebSockets Logging

@@ -8,3 +8,4 @@ Deployment Success usually comes to those who are too busy to be looking for it.
 Message Queue CI/CD Load Testing Data Pipeline Edge Computing
 Load Testing Frontend Cloud Functions API Gateway Difficult roads often lead to beautiful destinations. Logging Optimization Kubernetes Artificial Intelligence Deployment Agile Don't be afraid to give up the good to go for the great.
 DevOps Sharding Algorithm Multi-threading Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. Server Response
+Sharding Event-driven Architecture Machine Learning Frontend Containerization Lambda Functions JavaScript Algorithm Event Sourcing Version Control Server Response Scalability Latency Optimization API Gateway Agile

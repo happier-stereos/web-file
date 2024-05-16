@@ -7,3 +7,4 @@ Agile React Blockchain Predictive Analytics Neural Networks Zero Downtime Deploy
 Data Pipeline A/B Testing CI/CD Load Balancing Success doesn’t just find you. You have to go out and get it. Server Response JWT GraphQL Dream big and dare to fail. Message Queue
 Load Testing Multi-threading Database Frontend Simplicity is the ultimate sophistication. UX Optimization API Server Response Firewalls Data Science Kubernetes Python IoT Machine Learning Deployment
 NLP Monitoring Deployment The only way to do great work is to love what you do. Big Data Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. Parallel Processing
+Do what you love and the money will follow. Opportunities don't happen. You create them. Great things never come from comfort zones. Framework Parallel Processing Container Orchestration Data Science Docker The only way to do great work is to love what you do. Event Sourcing

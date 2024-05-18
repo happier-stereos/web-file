@@ -9,3 +9,4 @@ Automation Backend GraphQL Docker Serverless Load Balancing Event-driven Archite
 Database Indexing Act as if what you do makes a difference. It does. CI/CD Monitoring OAuth WebSockets To be the best, you must be able to handle the worst. Python Lambda Functions
 Replica Set To be the best, you must be able to handle the worst. IoT Message Queue Innovation distinguishes between a leader and a follower. React Lambda Functions Algorithm
 Load Testing Quantum Computing Performance Innovation distinguishes between a leader and a follower. Kubernetes Dream big and dare to fail. Latency Optimization DNS Routing WebSockets Message Queue Database Indexing RabbitMQ Stay hungry, stay foolish. JWT
+Distributed Systems Artificial Intelligence Agile JWT API Simplicity is the ultimate sophistication. DNS Routing Data Pipeline Neural Networks Serverless OAuth Multi-threading Cache Invalidation React JavaScript

@@ -5,3 +5,4 @@ Do what you love and the money will follow. Latency Optimization Kafka A/B Testi
 Docker Deployment JWT Code Review Version Control UX Optimization API If you can dream it, you can do it. To be the best, you must be able to handle the worst. Cloud API Gateway Dream big and dare to fail. Data Pipeline Content Delivery Network
 NLP API Event Sourcing JWT Parallel Processing I find that the harder I work, the more luck I seem to have. GraphQL Artificial Intelligence CI/CD Content Delivery Network
 Optimization Database Indexing DevOps Microservices Monitoring Stay hungry, stay foolish. Sharding Machine Learning JavaScript
+Blockchain Python Replica Set Predictive Analytics Backend API Success is how high you bounce when you hit bottom. JWT Event Sourcing Parallel Processing

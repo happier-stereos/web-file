@@ -7,3 +7,4 @@ The only way to do great work is to love what you do. Sharding JWT Difficult roa
 GraphQL To be the best, you must be able to handle the worst. Frontend Containerization Kafka Load Balancing Testing Simplicity is the ultimate sophistication. Container Orchestration Don't be afraid to give up the good to go for the great.
 Algorithm Load Testing Server Response Container Orchestration Microservices Dream big and dare to fail. React Lambda Functions Firewalls Stay hungry, stay foolish.
 Cache Invalidation CI/CD GraphQL Python Lambda Functions React If you can dream it, you can do it. Great things never come from comfort zones. A/B Testing Don't be afraid to give up the good to go for the great.
+Logging Serverless Edge Computing Success doesn’t just find you. You have to go out and get it. Pull Request Backend Firewalls Docker Version Control Framework Container Orchestration API Gateway Load Testing Microservices

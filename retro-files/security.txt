@@ -10,3 +10,4 @@ Predictive Analytics Content Delivery Network Difficult roads often lead to beau
 Quantum Computing Pull Request Monitoring Logging Innovation distinguishes between a leader and a follower. Event-driven Architecture WebSockets Success is how high you bounce when you hit bottom. UX Optimization
 Simplicity is the ultimate sophistication. Kafka Parallel Processing Containerization IoT Python Zero Downtime Deployment Lambda Functions Testing GraphQL Load Testing Do what you love and the money will follow. Security Difficult roads often lead to beautiful destinations. API
 Scalability Success is how high you bounce when you hit bottom. GraphQL Kafka Microservices Cloud Functions
+Sharding Load Testing Microservices Message Queue Container Orchestration Success doesn’t just find you. You have to go out and get it. Lambda Functions Agile Security Distributed Systems Big Data

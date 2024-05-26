@@ -6,3 +6,4 @@ Blockchain Cache Invalidation Work hard in silence, let your success be your noi
 Distributed Systems Cloud Edge Computing Success usually comes to those who are too busy to be looking for it. Logging IoT Success is not in what you have, but who you are. Database Indexing Quantum Computing Security Event Sourcing Sharding A/B Testing DevOps Deployment
 Event-driven Architecture Edge Computing Pull Request Database JavaScript Security NLP Algorithm Container Orchestration OAuth Optimization Agile Content Delivery Network Automation Work hard in silence, let your success be your noise.
 Cloud Difficult roads often lead to beautiful destinations. Content Delivery Network Load Balancing Security
+Security Happiness is not something ready made. It comes from your own actions. Data Pipeline Don't be afraid to give up the good to go for the great. Code Review Sharding Database Indexing Monitoring

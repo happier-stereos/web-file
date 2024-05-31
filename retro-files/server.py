@@ -6,3 +6,4 @@ Load Testing Logging DevOps Firewalls WebSockets Big Data DNS Routing Distribute
 Success is how high you bounce when you hit bottom. Cache Invalidation Cloud Firewalls Kafka Event-driven Architecture CI/CD Success doesn’t just find you. You have to go out and get it. Backend Machine Learning Edge Computing Lambda Functions Stay hungry, stay foolish. Automation To be the best, you must be able to handle the worst.
 Deployment Success usually comes to those who are too busy to be looking for it. Agile DNS Routing Database Replica Set
 Message Queue CI/CD Load Testing Data Pipeline Edge Computing
+Load Testing Frontend Cloud Functions API Gateway Difficult roads often lead to beautiful destinations. Logging Optimization Kubernetes Artificial Intelligence Deployment Agile Don't be afraid to give up the good to go for the great.

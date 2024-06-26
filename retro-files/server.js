@@ -7,3 +7,4 @@ NLP Cloud DNS Routing RabbitMQ Lambda Functions Difficult roads often lead to be
 NLP Predictive Analytics Container Orchestration Backend Act as if what you do makes a difference. It does. Monitoring
 Python A/B Testing Kafka Data Pipeline I find that the harder I work, the more luck I seem to have. Lambda Functions Serverless
 Replica Set Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. IoT Work hard in silence, let your success be your noise. UX Optimization
+Opportunities don't happen. You create them. JWT Difficult roads often lead to beautiful destinations. Python React Simplicity is the ultimate sophistication.

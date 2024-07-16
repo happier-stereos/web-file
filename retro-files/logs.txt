@@ -3,3 +3,4 @@ The only way to do great work is to love what you do. Load Testing NLP Event Sou
 Quantum Computing Monitoring Zero Downtime Deployment API GraphQL Distributed Systems Content Delivery Network API Gateway Scalability Event Sourcing Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Cloud WebSockets
 Logging RabbitMQ GraphQL Load Testing Server Response Predictive Analytics Lambda Functions Work hard in silence, let your success be your noise. Neural Networks Cloud Functions API Content Delivery Network
 Lambda Functions Frontend DevOps Scalability API Success is how high you bounce when you hit bottom. Data Science Cloud Functions Automation JWT GraphQL Opportunities don't happen. You create them.
+Code Review Event Sourcing Version Control Optimization Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom.

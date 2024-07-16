@@ -5,3 +5,4 @@ Container Orchestration Stay hungry, stay foolish. Don't be afraid to give up th
 Dream big and dare to fail. Neural Networks Kubernetes Success is how high you bounce when you hit bottom. Docker Backend Don't be afraid to give up the good to go for the great. Container Orchestration
 Agile React Blockchain Predictive Analytics Neural Networks Zero Downtime Deployment Algorithm
 Data Pipeline A/B Testing CI/CD Load Balancing Success doesn’t just find you. You have to go out and get it. Server Response JWT GraphQL Dream big and dare to fail. Message Queue
+Load Testing Multi-threading Database Frontend Simplicity is the ultimate sophistication. UX Optimization API Server Response Firewalls Data Science Kubernetes Python IoT Machine Learning Deployment

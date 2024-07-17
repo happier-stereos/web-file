@@ -8,3 +8,4 @@ Container Orchestration Code Review Don't be afraid to give up the good to go fo
 Automation Backend GraphQL Docker Serverless Load Balancing Event-driven Architecture Lambda Functions
 Database Indexing Act as if what you do makes a difference. It does. CI/CD Monitoring OAuth WebSockets To be the best, you must be able to handle the worst. Python Lambda Functions
 Replica Set To be the best, you must be able to handle the worst. IoT Message Queue Innovation distinguishes between a leader and a follower. React Lambda Functions Algorithm
+Load Testing Quantum Computing Performance Innovation distinguishes between a leader and a follower. Kubernetes Dream big and dare to fail. Latency Optimization DNS Routing WebSockets Message Queue Database Indexing RabbitMQ Stay hungry, stay foolish. JWT

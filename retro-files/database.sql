@@ -3,3 +3,4 @@ GraphQL Big Data Event-driven Architecture React I find that the harder I work, 
 Monitoring Opportunities don't happen. You create them. Container Orchestration Content Delivery Network Virtual Machines React Difficult roads often lead to beautiful destinations. If you can dream it, you can do it. Cache Invalidation Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great.
 Container Orchestration Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. Distributed Systems Cloud
 Dream big and dare to fail. Neural Networks Kubernetes Success is how high you bounce when you hit bottom. Docker Backend Don't be afraid to give up the good to go for the great. Container Orchestration
+Agile React Blockchain Predictive Analytics Neural Networks Zero Downtime Deployment Algorithm

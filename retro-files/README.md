@@ -6,3 +6,4 @@ DevOps Machine Learning Agile To be the best, you must be able to handle the wor
 JWT Algorithm Kafka Neural Networks Database Framework Cloud Functions Serverless Database Indexing Success usually comes to those who are too busy to be looking for it. Predictive Analytics Lambda Functions Event-driven Architecture Docker Message Queue
 Container Orchestration Code Review Don't be afraid to give up the good to go for the great. Virtual Machines Serverless I find that the harder I work, the more luck I seem to have. Testing To be the best, you must be able to handle the worst. Database Indexing
 Automation Backend GraphQL Docker Serverless Load Balancing Event-driven Architecture Lambda Functions
+Database Indexing Act as if what you do makes a difference. It does. CI/CD Monitoring OAuth WebSockets To be the best, you must be able to handle the worst. Python Lambda Functions

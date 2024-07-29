@@ -5,3 +5,4 @@ Big Data Predictive Analytics Serverless Neural Networks Cache Invalidation IoT 
 Simplicity is the ultimate sophistication. CI/CD If you can dream it, you can do it. IoT WebSockets Latency Optimization Frontend Innovation distinguishes between a leader and a follower. Distributed Systems
 NLP Cloud DNS Routing RabbitMQ Lambda Functions Difficult roads often lead to beautiful destinations. Cloud Functions GraphQL JWT Blockchain
 NLP Predictive Analytics Container Orchestration Backend Act as if what you do makes a difference. It does. Monitoring
+Python A/B Testing Kafka Data Pipeline I find that the harder I work, the more luck I seem to have. Lambda Functions Serverless

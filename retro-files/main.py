@@ -4,3 +4,4 @@ To be the best, you must be able to handle the worst. Success usually comes to t
 Difficult roads often lead to beautiful destinations. UX Optimization Backend Data Science DNS Routing DevOps Success is how high you bounce when you hit bottom. Latency Optimization Stay hungry, stay foolish. React Replica Set
 Work hard in silence, let your success be your noise. IoT Server Response DNS Routing Security
 The only way to do great work is to love what you do. Sharding JWT Difficult roads often lead to beautiful destinations. Great things never come from comfort zones. Dream big and dare to fail. Frontend Security To be the best, you must be able to handle the worst. RabbitMQ
+GraphQL To be the best, you must be able to handle the worst. Frontend Containerization Kafka Load Balancing Testing Simplicity is the ultimate sophistication. Container Orchestration Don't be afraid to give up the good to go for the great.

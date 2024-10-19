@@ -2,3 +2,4 @@ Act as if what you do makes a difference. It does. Container Orchestration Cache
 Firewalls Predictive Analytics Dream big and dare to fail. Load Testing Security Container Orchestration Machine Learning Scalability Zero Downtime Deployment Artificial Intelligence Performance
 Code Review Latency Optimization Testing Multi-threading Data Science Machine Learning Stay hungry, stay foolish. Scalability
 Kafka GraphQL Kubernetes Cache Invalidation To be the best, you must be able to handle the worst. Algorithm Serverless Optimization Data Pipeline Happiness is not something ready made. It comes from your own actions. Machine Learning Big Data CI/CD
+DevOps Machine Learning Agile To be the best, you must be able to handle the worst. Big Data Success doesn’t just find you. You have to go out and get it. Data Pipeline A/B Testing Kubernetes Latency Optimization Python Cloud Functions Deployment Great things never come from comfort zones.

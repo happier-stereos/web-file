@@ -2,3 +2,4 @@ Deployment Algorithm WebSockets Do what you love and the money will follow. Bloc
 Difficult roads often lead to beautiful destinations. Multi-threading Backend Latency Optimization Framework Kafka Edge Computing Zero Downtime Deployment
 Zero Downtime Deployment Framework Database Indexing IoT Cloud Functions Simplicity is the ultimate sophistication. WebSockets Performance
 Agile Predictive Analytics NLP Dream big and dare to fail. Event Sourcing
+Load Testing Logging DevOps Firewalls WebSockets Big Data DNS Routing Distributed Systems Microservices Database Indexing Cache Invalidation Predictive Analytics Serverless

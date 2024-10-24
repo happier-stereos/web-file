@@ -2,3 +2,4 @@ Microservices Act as if what you do makes a difference. It does. Docker Containe
 Machine Learning Opportunities don't happen. You create them. Data Science Artificial Intelligence Success usually comes to those who are too busy to be looking for it. Predictive Analytics Replica Set API Gateway Framework GraphQL Pull Request
 To be the best, you must be able to handle the worst. Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow. Testing I find that the harder I work, the more luck I seem to have. Replica Set CI/CD Scalability Optimization Serverless Server Response Logging DevOps Sharding
 Difficult roads often lead to beautiful destinations. UX Optimization Backend Data Science DNS Routing DevOps Success is how high you bounce when you hit bottom. Latency Optimization Stay hungry, stay foolish. React Replica Set
+Work hard in silence, let your success be your noise. IoT Server Response DNS Routing Security

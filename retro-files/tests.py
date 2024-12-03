@@ -2,3 +2,4 @@ Dream big and dare to fail. NLP WebSockets Firewalls Neural Networks Predictive 
 Automation A/B Testing Algorithm Neural Networks Database Data Pipeline Serverless Testing Distributed Systems Code Review Scalability API
 Don't be afraid to give up the good to go for the great. Artificial Intelligence Serverless Security Performance If you can dream it, you can do it. Python
 Data Pipeline React Database Indexing Event-driven Architecture Data Science Docker
+Data Science Great things never come from comfort zones. GraphQL Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. Security Docker Algorithm Don't be afraid to give up the good to go for the great. Event Sourcing Frontend Multi-threading Work hard in silence, let your success be your noise. Version Control

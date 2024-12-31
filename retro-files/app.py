@@ -1,0 +1,1 @@
+Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Data Science Cache Invalidation Difficult roads often lead to beautiful destinations. DNS Routing Virtual Machines Event Sourcing
